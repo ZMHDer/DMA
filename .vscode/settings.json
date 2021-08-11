@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "usart.h": "c",
+        "dma.h": "c",
+        "atomic": "c",
+        "cstring": "c",
+        "xmemory": "c",
+        "xstring": "c",
+        "xutility": "c"
+    }
+}
